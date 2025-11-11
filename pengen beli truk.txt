@@ -1,0 +1,3 @@
+1. urg asumsiin kalau penjualan dan sdm masuknya ke kantor Utama 
+2. krn di soal gaada subnet buat sdm. asumsi needed usable host 22
+3. krn penjualan butuh 41 host sedangkan switch slot cmn 24 makanya asumsi jadi butuh 2 switch
